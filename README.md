@@ -42,8 +42,8 @@ modelling_RNN_RF/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/rishitiwari08/modelling_RNN_RF.git
-cd modelling_RNN_RF
+git clone https://github.com/MilanMavani/Turbocharger-optimization-_RNN_RF.git
+cd Turbocharger-optimization-_RNN_RF
 ```
 
 2. **(Optional) Create a virtual environment:**
